@@ -5,3 +5,4 @@ It will show up on the main github project's page
 # Favorite foods
 Joe's favorite restaurant is BK Kjuklingur
 Elmar´s favorite food is chocolate mouse
+Leon's favorite sweets is chocolate
